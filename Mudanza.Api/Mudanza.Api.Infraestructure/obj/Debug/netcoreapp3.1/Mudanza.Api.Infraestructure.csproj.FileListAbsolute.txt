@@ -1,0 +1,22 @@
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Infraestructure\bin\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.deps.json
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Infraestructure\bin\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.dll
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Infraestructure\bin\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Infraestructure\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.dll
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Infraestructure\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Infraestructure\obj\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.csprojAssemblyReference.cache
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Infraestructure\obj\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Infraestructure\obj\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.AssemblyInfo.cs
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Infraestructure\obj\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.csproj.CopyComplete
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Infraestructure\obj\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.dll
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Infraestructure\obj\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Infraestructure\bin\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.deps.json
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Infraestructure\bin\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.dll
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Infraestructure\bin\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Infraestructure\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.dll
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Infraestructure\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Infraestructure\obj\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.csprojAssemblyReference.cache
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Infraestructure\obj\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Infraestructure\obj\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.AssemblyInfo.cs
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Infraestructure\obj\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.csproj.CopyComplete
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Infraestructure\obj\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.dll
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Infraestructure\obj\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.pdb

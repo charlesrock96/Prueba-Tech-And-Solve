@@ -1,0 +1,15 @@
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Domain\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.deps.json
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Domain\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.dll
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Domain\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Domain\obj\Debug\netcoreapp3.1\Mudanza.Api.Domain.csprojAssemblyReference.cache
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Domain\obj\Debug\netcoreapp3.1\Mudanza.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Domain\obj\Debug\netcoreapp3.1\Mudanza.Api.Domain.AssemblyInfo.cs
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Domain\obj\Debug\netcoreapp3.1\Mudanza.Api.Domain.dll
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Domain\obj\Debug\netcoreapp3.1\Mudanza.Api.Domain.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Domain\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.deps.json
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Domain\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.dll
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Domain\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Domain\obj\Debug\netcoreapp3.1\Mudanza.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Domain\obj\Debug\netcoreapp3.1\Mudanza.Api.Domain.AssemblyInfo.cs
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Domain\obj\Debug\netcoreapp3.1\Mudanza.Api.Domain.dll
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Domain\obj\Debug\netcoreapp3.1\Mudanza.Api.Domain.pdb

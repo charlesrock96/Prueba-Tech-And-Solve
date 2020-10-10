@@ -1,0 +1,371 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Test3\\Mudanza.Api.Test3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Aplication\\Mudanza.Api.Aplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Aplication\\Mudanza.Api.Aplication.csproj",
+        "projectName": "Mudanza.Api.Aplication",
+        "projectPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Aplication\\Mudanza.Api.Aplication.csproj",
+        "packagesPath": "C:\\Users\\CharlesRock96\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Aplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CharlesRock96\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Infraestructure\\Mudanza.Api.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Infraestructure\\Mudanza.Api.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Core\\Mudanza.Api.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Core\\Mudanza.Api.Core.csproj",
+        "projectName": "Mudanza.Api.Core",
+        "projectPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Core\\Mudanza.Api.Core.csproj",
+        "packagesPath": "C:\\Users\\CharlesRock96\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CharlesRock96\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Aplication\\Mudanza.Api.Aplication.csproj": {
+                "projectPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Aplication\\Mudanza.Api.Aplication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.Core": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Domain\\Mudanza.Api.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Domain\\Mudanza.Api.Domain.csproj",
+        "projectName": "Mudanza.Api.Domain",
+        "projectPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Domain\\Mudanza.Api.Domain.csproj",
+        "packagesPath": "C:\\Users\\CharlesRock96\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CharlesRock96\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Infraestructure\\Mudanza.Api.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Infraestructure\\Mudanza.Api.Infraestructure.csproj",
+        "projectName": "Mudanza.Api.Infraestructure",
+        "projectPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Infraestructure\\Mudanza.Api.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\CharlesRock96\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CharlesRock96\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Domain\\Mudanza.Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Domain\\Mudanza.Api.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Test3\\Mudanza.Api.Test3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Test3\\Mudanza.Api.Test3.csproj",
+        "projectName": "Mudanza.Api.Test3",
+        "projectPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Test3\\Mudanza.Api.Test3.csproj",
+        "packagesPath": "C:\\Users\\CharlesRock96\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Test3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CharlesRock96\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Aplication\\Mudanza.Api.Aplication.csproj": {
+                "projectPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Aplication\\Mudanza.Api.Aplication.csproj"
+              },
+              "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Core\\Mudanza.Api.Core.csproj": {
+                "projectPath": "C:\\Users\\CharlesRock96\\source\\repos\\Mudanza Tech And Solve\\Mudanza.Api\\Mudanza.Api.Core\\Mudanza.Api.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.6, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

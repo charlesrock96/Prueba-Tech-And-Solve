@@ -1,0 +1,26 @@
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Aplication.deps.json
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Aplication.dll
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Aplication.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.dll
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.dll
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Aplication\obj\Debug\netcoreapp3.1\Mudanza.Api.Aplication.csprojAssemblyReference.cache
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Aplication\obj\Debug\netcoreapp3.1\Mudanza.Api.Aplication.AssemblyInfoInputs.cache
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Aplication\obj\Debug\netcoreapp3.1\Mudanza.Api.Aplication.AssemblyInfo.cs
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Aplication\obj\Debug\netcoreapp3.1\Mudanza.Api.Aplication.csproj.CopyComplete
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Aplication\obj\Debug\netcoreapp3.1\Mudanza.Api.Aplication.dll
+C:\Users\CharlesRock96\source\repos\Mudanza.Api\Mudanza.Api.Aplication\obj\Debug\netcoreapp3.1\Mudanza.Api.Aplication.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Aplication.deps.json
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Aplication.dll
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Aplication.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.dll
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.dll
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Infraestructure.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Aplication\bin\Debug\netcoreapp3.1\Mudanza.Api.Domain.pdb
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Aplication\obj\Debug\netcoreapp3.1\Mudanza.Api.Aplication.csprojAssemblyReference.cache
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Aplication\obj\Debug\netcoreapp3.1\Mudanza.Api.Aplication.AssemblyInfoInputs.cache
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Aplication\obj\Debug\netcoreapp3.1\Mudanza.Api.Aplication.AssemblyInfo.cs
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Aplication\obj\Debug\netcoreapp3.1\Mudanza.Api.Aplication.csproj.CopyComplete
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Aplication\obj\Debug\netcoreapp3.1\Mudanza.Api.Aplication.dll
+C:\Users\CharlesRock96\source\repos\Mudanza Tech And Solve\Mudanza.Api\Mudanza.Api.Aplication\obj\Debug\netcoreapp3.1\Mudanza.Api.Aplication.pdb
